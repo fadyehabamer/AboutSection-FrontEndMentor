@@ -1,3 +1,3 @@
-## Some Front-End UI challenges found on 
+## About Section ( UI challenges found on ) 
 - **Frontend Mentor Website**
 
